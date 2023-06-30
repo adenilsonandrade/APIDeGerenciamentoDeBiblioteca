@@ -3,6 +3,7 @@
 WebAPI em C# utilizando o padrão RESTful, cada controller é responsável por tratar as operações CRUD relacionadas a uma entidade específica.
 
 Funções
+
 GET - Busca todos ou por Id Livros, Autores e Usuários
 POST - Adicione qualquer entidade
 PUT - Edita qualquer entidade por Id
