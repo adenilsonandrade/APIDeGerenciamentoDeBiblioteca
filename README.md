@@ -129,7 +129,9 @@ POST livro
       "livros": []
 
     }
+    
   ]
+  
 }
 
 POST livro
@@ -137,5 +139,7 @@ POST livro
     POST /API/usuario/
 
 {
+
   "nome": "string"
+  
 }
