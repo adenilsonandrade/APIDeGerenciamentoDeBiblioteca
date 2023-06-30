@@ -129,9 +129,7 @@ POST livro
       "livros": []
 
     }
-
   ]
-
 }
 
 POST livro
