@@ -9,7 +9,7 @@ PUT - Edita qualquer entidade por Id
 DELETE - Remove qualquer entidade por Id
 
 # Clonar repositorio
-# restaurar dotnet
+# Restaurar dotnet
 # Executar migrações
     dotnet ef migrations add InitialCreate
 # Atualizar o banco de dados
